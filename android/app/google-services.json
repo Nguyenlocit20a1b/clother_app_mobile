@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47874059625",
+    "project_id": "clothing-app-finall",
+    "storage_bucket": "clothing-app-finall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47874059625:android:2f57110ad5000f916fa1f8",
+        "android_client_info": {
+          "package_name": "com.example.clothing_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47874059625-f0pmorqd7die0r1dpeitd5eifehbnjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBdxjmQ4WoT0C3gpXWYXinbVD9fkx-lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47874059625-f0pmorqd7die0r1dpeitd5eifehbnjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
